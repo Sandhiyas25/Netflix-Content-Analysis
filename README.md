@@ -25,24 +25,27 @@ To analyze streaming content performance and viewer engagement by identifying pa
 
 ## Project Workflow
 
-* Data cleaning and preprocessing
+*Data cleaning and preprocessing
 * Data transformation and validation
 * KPI creation and DAX calculations
 * Data modeling
 * Interactive visualization design
+* Button creation and page navigation
+* Bookmark implementation
 * Dashboard development
 
 ## Key Features
 
 * KPI cards for customers, shows, ratings, and watch time
-* Genre-wise watch time analysis
-* Movie vs TV show comparison
+* Genre-wise and content-type analysis
 * Country-wise performance analysis
-* Subscription type analysis
-* Monthly rating and watch time trends
-* Age category analysis
-* Director and cast performance analysis
+* Subscription and age-category analysis
+* Monthly trend analysis
 * Interactive filters and slicers
+* Custom buttons for seamless navigation
+* Bookmark implementation for interactive posters
+* Multi-page dashboard navigation
+*  Dynamic visualizations and drill-down analysis
 
 ## Key Insights
 
