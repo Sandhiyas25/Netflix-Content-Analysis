@@ -63,7 +63,10 @@ To analyze streaming content performance and viewer engagement by identifying pa
 
 ## Conclusion
 
-This project demonstrates how data analytics and visualization can be used to understand viewer preferences, content performance, and streaming trends for better business decision-making.
+This project demonstrates how data analytics and visualization can be used to understand viewer preferences, content performance, and streaming trends for better business decision-making
+
+[Netflix.pdf](https://github.com/user-attachments/files/27649928/Netflix.pdf)
+
 
 
 This project demonstrates the practical application of data analysis, business intelligence, and visualization techniques in understanding streaming platform performance.
