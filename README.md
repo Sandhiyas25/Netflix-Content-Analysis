@@ -8,10 +8,13 @@ This project focuses on analyzing streaming platform data to understand viewer b
 
 ## Dashboard Overview
 <img width="1113" height="623" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/b8bb5883-492a-449b-95db-f0c6caebdeab" />
+
 ## Genre Analysis
 <img width="1113" height="623" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/ddb2d766-88d2-4d27-b9a5-aeb57723bd20" />
+
 ## Rating Analysis
 <img width="1113" height="623" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/d017e8d1-e274-4b9e-bf14-6a24de7d5846" />
+
 ## Watchtime Analysis
 <img width="1112" height="625" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/baff5353-2ee2-4658-ada7-aaaa72630b28" />
 
